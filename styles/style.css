@@ -18,9 +18,9 @@ body {
 .company-name{
     color: goldenrod;
     position: absolute;
-    top: 45%;
+    top: 40%;
     left: 10%;
-    font-size: xxx-large;
+    font-size: 4rem;
     font-weight: bold;
     font-family: serif;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
@@ -493,8 +493,7 @@ a .front-excerpt,a .front-excerpt:active,a .front-excerpt:focus,a .front-excerpt
     }
     .company-name{
         font-size: 3rem;
-        text-align: center;
-        left:0;
+        left: 35%;
     }
 }
 a.front-full-link,a.front-full-link:active,a.front-full-link:focus,a.front-full-link:visited {

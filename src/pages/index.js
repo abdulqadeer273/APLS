@@ -42,7 +42,7 @@ const index = () => {
         <div
         className="company-name"
         >
-          Shaher International
+          APLS
         </div>
       </div>
       {Data?.map((elem, index) => (
