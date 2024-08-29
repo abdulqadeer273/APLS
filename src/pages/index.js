@@ -42,7 +42,7 @@ const index = () => {
         <div
         className="company-name"
         >
-          APLS
+          APLS (P.V.T) LTD
         </div>
       </div>
       {Data?.map((elem, index) => (
