@@ -4,9 +4,9 @@ export const Data = [
     videoSrc: "",
     heading: "About Us",
     text1:
-      "M/s SHAHER International has been successfully servicing importers & exporters over 30 years. Our continued growth is attributable to strong company management and financial stability. Our commitment to service excellence has established us as Pakistan's leading Custom Agent Company.",
+      "M/s APLS PVT LTD has been successfully servicing importers & exporters over 30 years. Our continued growth is attributable to strong company management and financial stability. Our commitment to service excellence has established us as Pakistan's leading Custom Agent Company.",
     text2:
-      "Our CEO has to his credit more than 30 years' experience in the clearance of goods of diversified nature, including heavy plant & machinery and plants' spare parts for power project and Raw materials and Chemicals,this acquiring specialization in these areas. It means outsourcing all of your supply chain and lo gistics requirements to a capable and trusted company, such as Shaher International whos works as an extension of your business.",
+      "Our CEO has to his credit more than 30 years' experience in the clearance of goods of diversified nature, including heavy plant & machinery and plants' spare parts for power project and Raw materials and Chemicals,this acquiring specialization in these areas. It means outsourcing all of your supply chain and lo gistics requirements to a capable and trusted company, such as APLS PVT LTD whos works as an extension of your business.",
     text3: "",
     id:"aboutus"
   },
@@ -17,7 +17,7 @@ export const Data = [
     text1:
       "We provide you with real time, on-line information about your consignment when & where you need it. The benefits include gaining a competitive advantage, cutting costs, one window solutions, increasing efficiency and generally making life easier.",
     text2:
-      "Shaher International offers a global 3PL service for companies of all sizes , in all industriesm although we have specialist expertise in Engineering, mechanical handling eqiopment, textile, auto movile and the power geeration industries. We provide end-to-end supply chain management, including warehousing, distribution, packaging and freight forwarding, with the same dedication and efficiency that has led us to become one of the leading companies",
+      "APLS PVT LTD offers a global 3PL service for companies of all sizes , in all industriesm although we have specialist expertise in Engineering, mechanical handling eqiopment, textile, auto movile and the power geeration industries. We provide end-to-end supply chain management, including warehousing, distribution, packaging and freight forwarding, with the same dedication and efficiency that has led us to become one of the leading companies",
     text3: "",
     id:"scope"
   },
